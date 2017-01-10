@@ -1,9 +1,9 @@
 {
-    "name": "davidfraj/panel",
+    "name": "davidfraj/clasepanel",
     "type": "library",
     "description": "Panel para PHP",
     "keywords": ["panel","clase"],
-    "homepage": "https://github.com/davidfraj/panel",
+    "homepage": "https://github.com/davidfraj/clasepanel",
     "license": "OpenSource",
     "authors": [
         {
